@@ -1,0 +1,32 @@
+[
+    {"id":1,
+	 "name":"tableData", 
+	 "des":"ne postoji tabela ?,i ne postoje kolone ?",
+	 "sol":"popraviti upit da koristi pravu tabelu ili kolone."
+	 },
+	{"id":2,
+	 "name":"orientation", 
+	 "des":"losa orijentacija polja ?.",
+	 "sol":"popraviti sql upit da bude ispravan."
+	 },
+	 {"id":3,
+	 "name":"alias", 
+	 "des":"alis ? nema navodnike",
+	 "sol":"dodati navodnike ili promeniti ime"
+	 },
+	 {"id":4,
+	 "name":"csvCheck", 
+	 "des":"u csv fajlu se nalaze colone ? koje se neslazu sa tabelom ?",
+	 "sol":"promeniti tabelu ili popraviti fajl."
+	 },
+	 {"id":5,
+	 "name":"Agregation in where", 
+	 "des":"U where se nalazi ?",
+	 "sol":"Obrisi iz were ?."
+	 },
+	 {"id":6,
+	 "name":"group by agregation", 
+	 "des":"U where se nalazi ?",
+	 "sol":"Obrisi iz were ?."
+	 }
+]

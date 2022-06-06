@@ -1,0 +1,8 @@
+
+    {"id":1,
+	 "name":"tableData", 
+	 "des":"ne postoji tabela ?,i ne postoje kolone ?",
+	 "sol":"popraviti upit da koristi pravu tabelu ili kolone."
+	 },
+
+
